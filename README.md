@@ -1,0 +1,1 @@
+This project analyzes the sales performance of Fresh Auto, a used car dealership, using Microsoft Excel. Pivot tables and charts were used to study profit trends across cities, brands, and salespersons. The analysis revealed Toyota as the top-performing brand and Faridabad as the highest-profit city, providing actionable insights to improve sales strategies and decision-making.
